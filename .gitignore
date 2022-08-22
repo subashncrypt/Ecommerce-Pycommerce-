@@ -1,0 +1,7 @@
+*/node_modules
+.idea
+*.lock
+*.log
+.env
+node_modules
+.DS_Store
