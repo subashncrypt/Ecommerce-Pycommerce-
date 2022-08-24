@@ -6,18 +6,17 @@ Assignment 3 - Group Submission
 
 - _Date Created_: 15 July 2022
 - _Last Modification Date_: 15 July 2022
-- _Git URL Repository_: <https://git.cs.dal.ca/adimurthy/csci-5709-group-16>
 - _Deployed Application_: <https://pycommerce-16.herokuapp.com/>
 
 ## Author
-
+- Subash Narayanan(sb742704@dal.ca) - Full Stack Developer [Individual git branch link](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/stage/B00899481/)
 - [Adesh Nalpet Adimurthy](adesh.nalpet@dal.ca) - Full Stack Developer [Initial Setup](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/main), [Proxy Individual Branch](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/stage/b00886154).
 - Dhruvrajsinh Omkarsinh Vansia - Full Stack Developer [Individual git branch link](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/chore/design-cart)
 - [Hemanth Nadipineni] (hemanth@dal.ca) - Full Stack Developer [Individual git branch link 1](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/develop/B00899473) [Individual git branch link 2](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/dev-hn) [Individual git branch link 3](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/dev2-hn) [Individual git branch link 4](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/server-hn)
 - [Indu Munagapati](indu@dal.ca) - Full Stack Developer [Individual git branch link](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/stage/B00903180)
 - Karthik Kannan Nanthakumar - Full Stack Developer [Individual git branch link](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/payment)
 - Meghdoot Ojha - Full Stack Developer [Individual git branch link]()
-- Subash Narayanan(sb742704@dal.ca) - Full Stack Developer [Individual git branch link](https://git.cs.dal.ca/adimurthy/csci-5709-group-16/-/tree/stage/B00899481/)
+
 
 ## Overview
 
