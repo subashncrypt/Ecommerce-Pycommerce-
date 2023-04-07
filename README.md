@@ -2,10 +2,6 @@
 
 The purpose of PYCOMMERCE is to provide a smooth and easy-to-use eCommerce website for both customers and retailers, where we can effortlessly buy and sell online products.
 
-Assignment 3 - Group Submission
-
-- _Date Created_: 15 July 2022
-- _Last Modification Date_: 15 July 2022
 - _Deployed Application_: <https://pycommerce-16.herokuapp.com/>
 
 ## Author
@@ -46,7 +42,7 @@ User Authentication offers the following features:
 - Ability to add/remove product to/from favorites from product details page.
 - Ability to view all favorites from profile page and delete items from the same list.
 
-## Coupon Management - Hemanth
+## Coupon Management 
 
 By providing coupons and discounts to first-time online shoppers, this feature hopes to persuade users to use our platform. Seasonal coupons for the customers, such as Christmas specials, Black Friday promotions, etc. Idle shoppers, or those who haven't placed an order on our platform in about three months. Once a seller wants to create a coupon, he can click on the link provided in his dashboard, and it will get to the coupon management portal. The user can use the coupons the system will validate the code with the ones stored in the coupon management system. Following are the managing options available for the coupon system:
 
